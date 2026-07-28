@@ -34,8 +34,7 @@ I'm always exploring new technologies and best practices in:
 * Build clean, maintainable software
 * Automate repetitive tasks
 * Learn new technologies every year
-* Contribute to open-source projects
-* Share knowledge with the developer community
+
 
 ## 🛠️ Tech Stack
 
